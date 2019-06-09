@@ -76,53 +76,52 @@ After that, I have performed EDA analysis. I have done some exploration inside t
 
 ## Results
 
-- **For Verifications tools: reviews, phone and emails are the top three tools in both cities.**
+- **For Verifications tools: reviews, phone and emails are the top three tools in both cities**.
 <img src="img\Top verification tools.png"
      alt="Top verification tools used by hosts"
      height="60%" width="60%"
      style="margin: 10px;" />
-<br>
+
 - **For Amenities: wireless internet and heating are the top two amentities offered by hosts in both cities.**
-<br>
+
 <img src="img\Top Amenities.png"
      alt="Top Amenities offered by hosts"
      height="60%" width="60%"
      style="margin: 10px;" />
-<br>
+
 - **Customer Acquisition: there was a spike in the number of new customers starting from April 2013 in both cities. However, Airbnb enjoys a customer base in Seattle larger than Boston.**
-<br>
+
 <img src="img\Customer Acquisition.png"
      alt="Customer Acquisition Patterns in Boston and Seattle"
      height="60%" width="60%"
      style="margin: 10px;" />
-<br>
+
 **Seattle**
 - **Reviewers expressed their stay experience using keywords that focus on; location, amenities and host hospitality.**
-<br>
+
 <img src="img\Seattle Reviews Word Cloud.png"
      alt="Most frequent keywords used by visitors in Seattle"
     height="60%" width="60%"
      style="margin: 10px;" />
-<br>
+
 - **Hosts focused on location proximity to downtown, amenities, unit size and close tourist attractions.**
-<br> 
+
 <img src="img\Seattle Summary Word Cloud.png"
      alt="Most frequent keywords used by hosts in Seattle"
      height="60%" width="60%"
      style="margin: 10px;" />
-<br>
+
 **Boston**
 - **Reviewers from Seattle expressed their stay experience using keywords that is similar to reviewers from Seattle.** 
-<br>
+
 <img src="img\Boston Reviews Word Cloud.png"
      alt="Most frequent keywords used by visitors in Boston"
      height="60%" width="60%"
      style="margin: 10px;" />
-<br>
+
 - **Hosts from boston focused on; location proximity to downtown, amenities, unit size and close tourist attractions.**   
-<br>
+
 <img src="img\Boston Summary Word Cloud.png"
      alt="Most frequent keywords used by hosts in Boston"
      height="60%" width="60%"
      style="margin: 10px;" />
-<br>
